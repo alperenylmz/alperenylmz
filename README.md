@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on mobile development
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working on web/mobile development
+- 🌱 I’m currently learning React/React Native
 - 📫 How to reach me: linkedin.com/in/alperen-y%C4%B1lmaz-7b47671bb/
 
 <!--
